@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color:white;
+    color: rgb(202, 137, 245);
     font-family: 'Times New Roman', Times, serif;
 
 }
@@ -104,4 +104,9 @@ border: 0px solid white;
     outline: none;
     background-color: rgba(127, 0, 247, 0.274);
  }
- 
+ #propetario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
