@@ -102,7 +102,7 @@ border: 0px solid white;
 
  input:focus{
     outline: none;
-    background-color: rgba(127, 0, 247, 0.274);
+    background-color: rgba(43, 39, 48, 0.274);
  }
  #propetario{
     display: flex;
@@ -110,3 +110,32 @@ border: 0px solid white;
     justify-content: center;
     align-items: center;
  }
+ #modelo{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+#propetario{
+}
+
+
+#info{
+   display: flex;
+   flex-direction:row;
+   justify-content: center;
+   align-items: center;
+}
+
+#info2{
+   display: flex;
+   flex-direction:row;
+   justify-content: center;
+   align-items: center;
+}
+
+
+#contenedor 
+
+
+bu
